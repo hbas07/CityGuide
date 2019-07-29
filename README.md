@@ -1,2 +1,2 @@
 # CityGuide
-Here is an app using Angular CLI , MVC .NET Core WEB API and Entity Framework
+Here is an app using Angular CLI ,ASP.NET Core MVC WEB API 
